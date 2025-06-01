@@ -1,0 +1,9 @@
+meta:
+	ADDON_NAME = ofxPinkTrombone
+	ADDON_DESCRIPTION = Vocal tract synthesis based on Pink Trombone algorithm
+	ADDON_AUTHOR = Your Name
+	ADDON_TAGS = "audio" "synthesis" "vocal" "speech"
+	ADDON_URL = 
+
+common:
+	# No additional dependencies needed
